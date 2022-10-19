@@ -1,4 +1,4 @@
 - 👋 Olá, meu nome é @vitoriaemanuelle
-- 👍 Meu email de contato é vitoria.emanuelle.silva@escola.pr.gov.br
+- 👍 Meu email de contato é [email](vitoria.emanuelle.silva@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender a programar novas linguagens.
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
